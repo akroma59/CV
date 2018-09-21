@@ -167,9 +167,9 @@ header{
     text-align: center;
     color : white;
 }
-/* FIN HEADER */
+/* END HEADER */
 
-/* SECTION EXPERIENCES */
+/* Beginning EXPERIENCES */
 
 section{
     background-color: #043146;
@@ -203,9 +203,9 @@ article.experiences ul {
     list-style-type: none;
 }
 
-/* FIN SECTION EXPERIENCES */
+/* END SECTION EXPERIENCES */
 
-/* SECTION FORMATIONS */
+/* Beginning FORMATIONS */
 
 article.formations{
     border: 1px solid #000;
@@ -222,9 +222,9 @@ article.formations ul {
 article.formations p{
     text-align: center;
 }
-/* FIN SECTION FORMATIONS */
+/* END SECTION FORMATIONS */
 
-/* SECTION INTERETS */
+/* Beginning SECTION INTERETS */
 
 article.interets{
     border: 1px solid #000;
@@ -238,19 +238,6 @@ article.interets{
 article.interets ul {
     list-style-type: none;
 }
-    
-
-
-
-
-
-
-
-
-
-
-
-
 /* ==========================================================================
    Helper classes
    ========================================================================== */
